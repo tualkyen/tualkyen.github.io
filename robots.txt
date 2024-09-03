@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tualkyen.github.io/sitemap.html.gz
+Sitemap: https://tualkyen.github.io/app/sitemap.html.gz
+Sitemap: https://tualkyen.github.io/assets/sitemap.html.gz
+Sitemap: https://tualkyen.github.io/css/sitemap.html.gz
+Sitemap: https://tualkyen.github.io/includes/sitemap.html.gz
+Sitemap: https://tualkyen.github.io/item/sitemap.html.gz
+Sitemap: https://tualkyen.github.io/src/sitemap.html.gz
